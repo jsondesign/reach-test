@@ -8,7 +8,7 @@ class Contador extends Component{
 
 //objeto con propiedades
     this.state = { //agrego un valor a  la clave
-      contador : 2
+      contador : 1
     };
 
     }
